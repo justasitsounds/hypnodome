@@ -1,0 +1,15 @@
+---
+theme: "hyde"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://justasitsounds.github.io/hypnodome"
+title: "Enter the Hypno-dome!"
+canonifyurls: true
+
+params:
+    themeColor: "theme-base-0b"
+    layoutReverse: true
+    description: "Something to do"
