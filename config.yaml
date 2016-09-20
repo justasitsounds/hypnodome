@@ -5,7 +5,7 @@ layoutdir: "layouts"
 publishdir: "docs"
 indexes:
   category: "categories"
-baseurl: "http://justasitsounds.github.io/hypnodome/"
+baseurl: "https://justasitsounds.github.io/hypnodome/"
 title: "Enter the Hypno-dome!"
 canonifyurls: true
 
