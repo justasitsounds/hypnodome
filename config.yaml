@@ -2,7 +2,7 @@
 theme: "hyde"
 contentdir: "content"
 layoutdir: "layouts"
-publishdir: "public"
+publishdir: "docs"
 indexes:
   category: "categories"
 baseurl: "http://justasitsounds.github.io/hypnodome"

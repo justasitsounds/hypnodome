@@ -1,3 +1,1 @@
-# Hypnodome
-
-A made thing, for fun
+# HYPNODOME
